@@ -1,6 +1,6 @@
 # .net-UdpServer
 
-包含客户端、服务端，大家可以下载下来进行测试，目前服务端已经实现个人对个人信息的发送，群发送也实现大部分，但还不完善。
+包含客户端、服务端，大家可以下载下来进行测试，目前服务端已经实现个人对个人信息的发送，群发送也实现大部分，但还不完善。其中使用到数据库Mysql,已经把数据库备份放到项目UdpWeb文件夹mysqldb里，大家需要先安装mysql，然后把数据库导进去。
 
 其中一个项目UdpWeb主要提供注册、登录等功能
 
@@ -25,3 +25,7 @@ select <friend's name>
 
 5、开始聊天
 直接输入文字即可
+
+![Image text](https://github.com/lozone123/.net-UdpServer/raw/master/readimg/20190830130801.png)
+
+![Image text](https://github.com/lozone123/.net-UdpServer/raw/master/readimg/20190830132052.png)
