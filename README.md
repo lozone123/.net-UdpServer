@@ -26,6 +26,6 @@ select <friend's name>
 5、开始聊天
 直接输入文字即可
 
-![Image text]https://github.com/lozone123/.net-UdpServer/raw/master/readimg/20190830130801.png
+![Image text](https://github.com/lozone123/.net-UdpServer/raw/master/readimg/20190830130801.png)
 
-![Image text]https://github.com/lozone123/.net-UdpServer/raw/master/readimg/20190830132052.png
+![Image text](https://github.com/lozone123/.net-UdpServer/raw/master/readimg/20190830132052.png)
