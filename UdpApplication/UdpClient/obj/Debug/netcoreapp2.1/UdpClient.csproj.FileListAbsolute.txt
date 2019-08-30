@@ -1,0 +1,16 @@
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\bin\Debug\netcoreapp2.1\UdpClient.deps.json
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\bin\Debug\netcoreapp2.1\UdpClient.runtimeconfig.json
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\bin\Debug\netcoreapp2.1\UdpClient.runtimeconfig.dev.json
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\bin\Debug\netcoreapp2.1\UdpClient.dll
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\obj\Debug\netcoreapp2.1\UdpClient.csproj.CoreCompileInputs.cache
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\obj\Debug\netcoreapp2.1\UdpClient.AssemblyInfoInputs.cache
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\obj\Debug\netcoreapp2.1\UdpClient.AssemblyInfo.cs
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\bin\Debug\netcoreapp2.1\UdpClient.pdb
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\obj\Debug\netcoreapp2.1\UdpClient.dll
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\obj\Debug\netcoreapp2.1\UdpClient.pdb
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\obj\Debug\netcoreapp2.1\UdpClient.csprojAssemblyReference.cache
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\bin\Debug\netcoreapp2.1\Udp.Model.dll
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\bin\Debug\netcoreapp2.1\Udp.Security.dll
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\bin\Debug\netcoreapp2.1\Udp.Model.pdb
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\bin\Debug\netcoreapp2.1\Udp.Security.pdb
+C:\Users\lcz\source\repos\UdpApplication\UdpClient\obj\Debug\netcoreapp2.1\UdpClient.csproj.CopyComplete

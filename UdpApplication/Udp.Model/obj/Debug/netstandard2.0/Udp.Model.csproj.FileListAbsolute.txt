@@ -1,0 +1,9 @@
+C:\Users\lcz\source\repos\UdpApplication\Udp.Model\bin\Debug\netstandard2.0\Udp.Model.deps.json
+C:\Users\lcz\source\repos\UdpApplication\Udp.Model\bin\Debug\netstandard2.0\Udp.Model.dll
+C:\Users\lcz\source\repos\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.csproj.CoreCompileInputs.cache
+C:\Users\lcz\source\repos\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.AssemblyInfoInputs.cache
+C:\Users\lcz\source\repos\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.AssemblyInfo.cs
+C:\Users\lcz\source\repos\UdpApplication\Udp.Model\bin\Debug\netstandard2.0\Udp.Model.pdb
+C:\Users\lcz\source\repos\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.dll
+C:\Users\lcz\source\repos\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.pdb
+C:\Users\lcz\source\repos\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.csprojAssemblyReference.cache

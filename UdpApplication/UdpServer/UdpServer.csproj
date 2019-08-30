@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AsyncNet.Udp" Version="1.2.4" />
+    <PackageReference Include="MySql.Data" Version="8.0.17" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Udp.BLL\Udp.BLL.csproj" />
+    <ProjectReference Include="..\Udp.Model\Udp.Model.csproj" />
+    <ProjectReference Include="..\Udp.Security\Udp.Security.csproj" />
+  </ItemGroup>
+
+</Project>

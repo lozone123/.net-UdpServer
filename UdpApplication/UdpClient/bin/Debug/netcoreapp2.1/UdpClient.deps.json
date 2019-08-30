@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "acbca8f793c1f97c6e91557caa316525ba32a2b5"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "UdpClient/1.0.0": {
+        "dependencies": {
+          "AsyncNet.Udp": "1.2.4",
+          "Newtonsoft.Json": "12.0.2",
+          "Udp.Model": "1.0.0",
+          "Udp.Security": "1.0.0"
+        },
+        "runtime": {
+          "UdpClient.dll": {}
+        }
+      },
+      "AsyncNet.Core/1.2.4": {
+        "runtime": {
+          "lib/netstandard2.0/AsyncNet.Core.dll": {
+            "assemblyVersion": "1.2.4.0",
+            "fileVersion": "1.2.4.0"
+          }
+        }
+      },
+      "AsyncNet.Udp/1.2.4": {
+        "dependencies": {
+          "AsyncNet.Core": "1.2.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AsyncNet.Udp.dll": {
+            "assemblyVersion": "1.2.4.0",
+            "fileVersion": "1.2.4.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "Udp.Model/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "Udp.Model.dll": {}
+        }
+      },
+      "Udp.Security/1.0.0": {
+        "runtime": {
+          "Udp.Security.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UdpClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsyncNet.Core/1.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DRMGW4FRB8gIi+XwQreLRkMVuPYfpUoxf842S0qwqr6JRf7Jkll5WEIdG0mWI0QeJrNcgERqADIXrRihgtF0hw==",
+      "path": "asyncnet.core/1.2.4",
+      "hashPath": "asyncnet.core.1.2.4.nupkg.sha512"
+    },
+    "AsyncNet.Udp/1.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uqtC/k7eVXun8ZjHfWy4X0V1faiUBAJuTlPOcSaAkCRtAHk8ZTOaozf1uFBSzt9JcCz9a3vzMA2ZPqIPQjfVvA==",
+      "path": "asyncnet.udp/1.2.4",
+      "hashPath": "asyncnet.udp.1.2.4.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "Udp.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Udp.Security/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

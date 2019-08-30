@@ -1,0 +1,9 @@
+C:\Users\lcz\source\repos\UdpApplication\Udp.Security\bin\Debug\netstandard2.0\Udp.Security.deps.json
+C:\Users\lcz\source\repos\UdpApplication\Udp.Security\bin\Debug\netstandard2.0\Udp.Security.dll
+C:\Users\lcz\source\repos\UdpApplication\Udp.Security\bin\Debug\netstandard2.0\Udp.Security.pdb
+C:\Users\lcz\source\repos\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.csproj.CoreCompileInputs.cache
+C:\Users\lcz\source\repos\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.AssemblyInfoInputs.cache
+C:\Users\lcz\source\repos\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.AssemblyInfo.cs
+C:\Users\lcz\source\repos\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.dll
+C:\Users\lcz\source\repos\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.pdb
+C:\Users\lcz\source\repos\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.csprojAssemblyReference.cache

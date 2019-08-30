@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lcz\\source\\repos\\UdpApplication\\UdpServer\\UdpServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.BLL\\Udp.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.BLL\\Udp.BLL.csproj",
+        "projectName": "Udp.BLL",
+        "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.BLL\\Udp.BLL.csproj",
+        "packagesPath": "C:\\Users\\lcz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.DB\\Udp.DB.csproj": {
+                "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.DB\\Udp.DB.csproj"
+              },
+              "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Model\\Udp.Model.csproj": {
+                "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Model\\Udp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.DB\\Udp.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.DB\\Udp.DB.csproj",
+        "projectName": "Udp.DB",
+        "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.DB\\Udp.DB.csproj",
+        "packagesPath": "C:\\Users\\lcz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Model\\Udp.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Model\\Udp.Model.csproj",
+        "projectName": "Udp.Model",
+        "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Model\\Udp.Model.csproj",
+        "packagesPath": "C:\\Users\\lcz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Security\\Udp.Security.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Security\\Udp.Security.csproj",
+        "projectName": "Udp.Security",
+        "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Security\\Udp.Security.csproj",
+        "packagesPath": "C:\\Users\\lcz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Security\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\lcz\\source\\repos\\UdpApplication\\UdpServer\\UdpServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\UdpServer\\UdpServer.csproj",
+        "projectName": "UdpServer",
+        "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\UdpServer\\UdpServer.csproj",
+        "packagesPath": "C:\\Users\\lcz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\UdpServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.BLL\\Udp.BLL.csproj": {
+                "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.BLL\\Udp.BLL.csproj"
+              },
+              "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Model\\Udp.Model.csproj": {
+                "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Model\\Udp.Model.csproj"
+              },
+              "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Security\\Udp.Security.csproj": {
+                "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Security\\Udp.Security.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AsyncNet.Udp": {
+              "target": "Package",
+              "version": "[1.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

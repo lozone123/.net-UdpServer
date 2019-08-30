@@ -1,0 +1,14 @@
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.DB.dll
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.csprojAssemblyReference.cache
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.AssemblyInfoInputs.cache
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.AssemblyInfo.cs
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.BLL.deps.json
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.BLL.dll
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.BLL.pdb
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.Model.dll
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.DB.pdb
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.Model.pdb
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.csproj.CopyComplete
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.dll
+C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.pdb
