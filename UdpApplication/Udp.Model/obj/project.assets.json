@@ -225,11 +225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Model\\Udp.Model.csproj",
+      "projectUniqueName": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Model\\Udp.Model.csproj",
       "projectName": "Udp.Model",
-      "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Model\\Udp.Model.csproj",
+      "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Model\\Udp.Model.csproj",
       "packagesPath": "C:\\Users\\lcz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Model\\obj\\",
+      "outputPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Security\\Udp.Security.csproj": {}
+    "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Security\\Udp.Security.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Security\\Udp.Security.csproj": {
+    "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Security\\Udp.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Security\\Udp.Security.csproj",
+        "projectUniqueName": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Security\\Udp.Security.csproj",
         "projectName": "Udp.Security",
-        "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Security\\Udp.Security.csproj",
+        "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Security\\Udp.Security.csproj",
         "packagesPath": "C:\\Users\\lcz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Security\\obj\\",
+        "outputPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Security\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

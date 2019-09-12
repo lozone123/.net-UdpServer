@@ -4885,11 +4885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\UdpServer\\UdpServer.csproj",
+      "projectUniqueName": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\UdpServer\\UdpServer.csproj",
       "projectName": "UdpServer",
-      "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\UdpServer\\UdpServer.csproj",
+      "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\UdpServer\\UdpServer.csproj",
       "packagesPath": "C:\\Users\\lcz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\UdpServer\\obj\\",
+      "outputPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\UdpServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4908,14 +4908,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.BLL\\Udp.BLL.csproj": {
-              "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.BLL\\Udp.BLL.csproj"
+            "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.BLL\\Udp.BLL.csproj": {
+              "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.BLL\\Udp.BLL.csproj"
             },
-            "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Model\\Udp.Model.csproj": {
-              "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Model\\Udp.Model.csproj"
+            "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Model\\Udp.Model.csproj": {
+              "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Model\\Udp.Model.csproj"
             },
-            "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Security\\Udp.Security.csproj": {
-              "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.Security\\Udp.Security.csproj"
+            "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Security\\Udp.Security.csproj": {
+              "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Security\\Udp.Security.csproj"
             }
           }
         }

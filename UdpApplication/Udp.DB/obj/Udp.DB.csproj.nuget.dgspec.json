@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.DB\\Udp.DB.csproj": {}
+    "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.DB\\Udp.DB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.DB\\Udp.DB.csproj": {
+    "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.DB\\Udp.DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.DB\\Udp.DB.csproj",
+        "projectUniqueName": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.DB\\Udp.DB.csproj",
         "projectName": "Udp.DB",
-        "projectPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.DB\\Udp.DB.csproj",
+        "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.DB\\Udp.DB.csproj",
         "packagesPath": "C:\\Users\\lcz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lcz\\source\\repos\\UdpApplication\\Udp.DB\\obj\\",
+        "outputPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.DB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

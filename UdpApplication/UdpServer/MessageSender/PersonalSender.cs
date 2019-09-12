@@ -15,24 +15,28 @@ namespace UdpServer.MessageSender
             var sendThread = new Thread(() =>
             {
                 var i = 0;
+
                 while (true)
                 {
                     i++;
                     //每循环一千次暂停2秒，避免CPU使用过高
-                    if (MessageQueue.msgQueuePersonal.Count <= 0 || i % 1000 == 0)
+                    if (GetMessageCount() <= 0 || i % 1000 == 0)
                     {
                         Thread.Sleep(2000);
-                        i = 0;
+                        i = 1;
                     }
 
-                    if (MessageQueue.msgQueuePersonal.Count <= 0)
+                    if ( GetMessageCount()<= 0)
                         continue;
 
                     var msg = MessageQueue.msgQueuePersonal.Dequeue();
+
                     try
                     {
                         var model = JsonConvert.DeserializeObject<MessageModel>(msg);
+
                         var toUser = CacheManage.UserCache.GetUser(model.ToUid);
+
                         if (toUser != null)
                         {
                             SendMessage(msg, toUser);
@@ -43,11 +47,17 @@ namespace UdpServer.MessageSender
                     }
                 }
             });
+
             sendThread.Start();
         }
         public override bool SendMessage(string msg, IPEndPoint toUser)
         {
             return base.SendMessage(msg, toUser);
+        }
+
+        private int GetMessageCount()
+        {
+            return MessageQueue.msgQueuePersonal.Count;
         }
     }
 }
