@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Model\\Udp.Model.csproj": {}
+    "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\Udp.Model\\Udp.Model.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Model\\Udp.Model.csproj": {
+    "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\Udp.Model\\Udp.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Model\\Udp.Model.csproj",
+        "projectUniqueName": "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\Udp.Model\\Udp.Model.csproj",
         "projectName": "Udp.Model",
-        "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Model\\Udp.Model.csproj",
+        "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\Udp.Model\\Udp.Model.csproj",
         "packagesPath": "C:\\Users\\lcz\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Model\\obj\\",
+        "outputPath": "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\Udp.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -50,13 +50,43 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.2, )"
+            },
+            "System.Diagnostics.Debug": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IO.FileSystem.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Net.NameResolution": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Net.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime.Extensions": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Threading": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

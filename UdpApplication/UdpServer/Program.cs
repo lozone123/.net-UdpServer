@@ -10,8 +10,9 @@ namespace UdpServer
         static void Main(string[] args)
         {
             new Server();
-            new PersonalSender();
-            new GroupSender();
+            Console.ReadLine();
+            //new PersonalSender();
+            //new GroupSender();
         }
     }
 }

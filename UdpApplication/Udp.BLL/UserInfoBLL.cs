@@ -74,13 +74,21 @@ namespace Udp.BLL
             return ret > 0;
         }
 
-        public static bool Add(UserInfoModel model)
+        public static bool UpdateUdpEndPoint(string ip,int port,string uid)
         {
-            var sql = "insert into userinfo(username,userpass,nickname,login_state) values(@username,@userpass,@nickname,0)";
-            var param = new MySqlParameter[3];
+            var sql = $"update userinfo set udpip='{ip}',udp_port={port},create_date='{DateTime.Now}' where id={uid}";
+            var ret = MysqlTool.ExecuteNonQuery(sql);
+            return ret > 0;
+        }
+
+        public static bool Add(UserInfoModel model,int loginState=0)
+        {
+            var sql = "insert into userinfo(username,userpass,nickname,login_state) values(@username,@userpass,@nickname,@loginState)";
+            var param = new MySqlParameter[4];
             param[0] = new MySqlParameter("username", model.username);
             param[1] = new MySqlParameter("userpass", model.userpass);
             param[2] = new MySqlParameter("nickname", model.nickname);
+            param[3] = new MySqlParameter("loginState", loginState);
             var ret = MysqlTool.ExecuteNonQuery(sql, param);
             return ret > 0;
         }

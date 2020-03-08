@@ -7,3 +7,20 @@ C:\Users\lcz\source\repos\UdpApplication\Udp.Model\bin\Debug\netstandard2.0\Udp.
 C:\Users\lcz\source\repos\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.dll
 C:\Users\lcz\source\repos\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.pdb
 C:\Users\lcz\source\repos\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.csprojAssemblyReference.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Model\bin\Debug\netstandard2.0\Udp.Model.deps.json
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Model\bin\Debug\netstandard2.0\Udp.Model.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Model\bin\Debug\netstandard2.0\Udp.Model.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.csproj.CoreCompileInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.AssemblyInfoInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.AssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.csprojAssemblyReference.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Model\bin\Debug\netstandard2.0\Udp.Model.deps.json
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Model\bin\Debug\netstandard2.0\Udp.Model.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Model\bin\Debug\netstandard2.0\Udp.Model.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.AssemblyInfoInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.AssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Model\obj\Debug\netstandard2.0\Udp.Model.csprojAssemblyReference.cache

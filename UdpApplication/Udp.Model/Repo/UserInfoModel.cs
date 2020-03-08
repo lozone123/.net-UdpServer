@@ -16,7 +16,7 @@ namespace Udp.Model.Repo
         /// </summary>
         public int login_state { get; set; }
         public string udpip { get; set; }
-        public string upd_port { get; set; }
-        public DateTime? create_data { get; set; }
+        public string udp_port { get; set; }
+        public DateTime? create_date { get; set; }
     }
 }

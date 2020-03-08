@@ -10,7 +10,7 @@ namespace UdpServer.MySqlManage
 {
     public class MysqlTool
     {
-        readonly static string ConnectString = "Server=localhost;User Id=root;password=123;Database=social";
+        readonly static string ConnectString = "Server=localhost;User Id=root;password=123;Database=social_test";
 
         public static int Excute(string sql)
         {

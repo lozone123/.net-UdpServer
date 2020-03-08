@@ -3531,23 +3531,23 @@
           }
         }
       },
-      "System.Net.NameResolution/4.0.0": {
+      "System.Net.NameResolution/4.3.0": {
         "type": "package",
         "dependencies": {
-          "Microsoft.NETCore.Platforms": "1.0.1",
-          "System.Collections": "4.0.11",
-          "System.Diagnostics.Tracing": "4.1.0",
-          "System.Globalization": "4.0.11",
-          "System.Net.Primitives": "4.0.11",
-          "System.Resources.ResourceManager": "4.0.1",
-          "System.Runtime": "4.1.0",
-          "System.Runtime.Extensions": "4.1.0",
-          "System.Runtime.Handles": "4.0.1",
-          "System.Runtime.InteropServices": "4.1.0",
-          "System.Security.Principal.Windows": "4.0.0",
-          "System.Threading": "4.0.11",
-          "System.Threading.Tasks": "4.0.11",
-          "runtime.native.System": "4.0.0"
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "System.Collections": "4.3.0",
+          "System.Diagnostics.Tracing": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.Net.Primitives": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.Handles": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Security.Principal.Windows": "4.3.0",
+          "System.Threading": "4.3.0",
+          "System.Threading.Tasks": "4.3.0",
+          "runtime.native.System": "4.3.0"
         },
         "compile": {
           "ref/netstandard1.3/System.Net.NameResolution.dll": {}
@@ -4574,6 +4574,14 @@
         "dependencies": {
           "MySql.Data": "8.0.17",
           "Newtonsoft.Json": "12.0.2",
+          "System.Diagnostics.Debug": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.IO.FileSystem": "4.3.0",
+          "System.IO.FileSystem.Primitives": "4.3.0",
+          "System.Net.NameResolution": "4.3.0",
+          "System.Net.Primitives": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Threading": "4.3.0",
           "Udp.DB": "1.0.0",
           "Udp.Model": "1.0.0"
         },
@@ -4588,7 +4596,15 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "MySql.Data": "8.0.17"
+          "MySql.Data": "8.0.17",
+          "System.Diagnostics.Debug": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.IO.FileSystem": "4.3.0",
+          "System.IO.FileSystem.Primitives": "4.3.0",
+          "System.Net.NameResolution": "4.3.0",
+          "System.Net.Primitives": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Threading": "4.3.0"
         },
         "compile": {
           "bin/placeholder/Udp.DB.dll": {}
@@ -4601,7 +4617,13 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Newtonsoft.Json": "12.0.2"
+          "Newtonsoft.Json": "12.0.2",
+          "System.Diagnostics.Debug": "4.3.0",
+          "System.IO.FileSystem.Primitives": "4.3.0",
+          "System.Net.NameResolution": "4.3.0",
+          "System.Net.Primitives": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Threading": "4.3.0"
         },
         "compile": {
           "bin/placeholder/Udp.Model.dll": {}
@@ -4613,6 +4635,14 @@
       "Udp.Security/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "System.Diagnostics.Debug": "4.3.0",
+          "System.IO.FileSystem.Primitives": "4.3.0",
+          "System.Net.NameResolution": "4.3.0",
+          "System.Net.Primitives": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Threading": "4.3.0"
+        },
         "compile": {
           "bin/placeholder/Udp.Security.dll": {}
         },
@@ -7483,7 +7513,7 @@
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "HdSSp5MnJSsg08KMfZThpuLPJpPwE5hBXvHwoKWosyHHfe8Mh5WKT0ylEOf6yNzX6Ngjxe4Whkafh5q7Ymac4Q==",
+      "sha512": "ikPrpfF/UZFxiHGqWfG/Cx34OdzLU5pCNra7sPWLVBCwdvCYdrrDa63BT+I+lHvSNn5j8IrD5XEkkP6dNV8G7w==",
       "type": "package",
       "path": "runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7496,7 +7526,7 @@
       ]
     },
     "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "+yH1a49wJMy8Zt4yx5RhJrxO/DBDByAiCzNwiETI+1S4mPdCu0OY4djdciC7Vssk0l22wQaDLrXxXkp+3+7bVA==",
+      "sha512": "KeK+uUnpuGanSl6lrJunOS4feOsgGCZrAg+jASq50nKfIsDhNLnRP+goYe+XDik8pixamRzdFxR6KUEya0iiUQ==",
       "type": "package",
       "path": "runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7509,7 +7539,7 @@
       ]
     },
     "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "c3YNH1GQJbfIPJeCnr4avseugSqPrxwIqzthYyZDN6EuOyNOzq+y2KSUfRcXauya1sF4foESTgwM5e1A8arAKw==",
+      "sha512": "3mA5ypCmNwab0h3kuHfVj7EirsNfL/xini65WkbMUpvJtjYYWok4B0NOtbYtvU+L7Ihl4toIe83id5Bg1vMcJQ==",
       "type": "package",
       "path": "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7536,12 +7566,11 @@
       ]
     },
     "runtime.native.System.Data.SqlClient.sni/4.4.0": {
-      "sha512": "A8v6PGmk+UGbfWo5Ixup0lPM4swuSwOiayJExZwKIOjTlFFQIsu3QnDXECosBEyrWSPryxBVrdqtJyhK3BaupQ==",
+      "sha512": "d5b1mipWE4c8V/PCJZNXiQzQ3UbAAsKw08LopEj/TeUUQKb+T+9mDXP9Fwd52j0AdH17QJ1QBAqysNmYgevAqA==",
       "type": "package",
       "path": "runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
@@ -7593,12 +7622,11 @@
       ]
     },
     "runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "NS1U+700m4KFRHR5o4vo9DSlTmlCKu/u7dtE5sUHVIPB+xpXxYQvgBgA6wEIeCz6Yfn0Z52/72WYsToCEPJnrw==",
+      "sha512": "a98MthW3vDWdBROfMnSIYoZeY2E113euRTxVLGDQd1AE2CG0gUyWCWbDxMz9JgDIVnYoZrvWjheDaomAPW5p8w==",
       "type": "package",
       "path": "runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -7607,7 +7635,7 @@
       ]
     },
     "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "b3pthNgxxFcD+Pc0WSEoC0+md3MyhRS6aCEeenvNE3Fdw1HyJ18ZhRFVJJzIeR/O/jpxPboB805Ho0T3Ul7w8A==",
+      "sha512": "/tjiFea2rzoaXshEW+fgRzaoaR3RGiiOuUIQvzohLX0JgUJUJ+Cecd7cgVkKk9W+QBQCibScGGtWbuyi6k+c3A==",
       "type": "package",
       "path": "runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7620,7 +7648,7 @@
       ]
     },
     "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "KeLz4HClKf+nFS7p/6Fi/CqyLXh81FpiGzcmuS8DGi9lUqSnZ6Es23/gv2O+1XVGfrbNmviF7CckBpavkBoIFQ==",
+      "sha512": "dTWD3m6G1HetUiiBMl6t+TH23mwho9DWrwwQtU34U2h6BIMRuQ4eRV2XehOotYUXPtO2UewxXDo8mKXZw/Na4Q==",
       "type": "package",
       "path": "runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7647,7 +7675,7 @@
       ]
     },
     "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "X7IdhILzr4ROXd8mI1BUCQMSHSQwelUlBjF1JyTKCjXaOGn2fB4EKBxQbCK2VjO3WaWIdlXZL3W6TiIVnrhX4g==",
+      "sha512": "tP7nZyeV05Sgs1idX0JwzHBVUkjNUZuNooWMisJYIRBtHv4/b8xxD9ab6zfQltGR4DheV4ZtFEI4rhG6havAbQ==",
       "type": "package",
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7660,7 +7688,7 @@
       ]
     },
     "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "nyFNiCk/r+VOiIqreLix8yN+q3Wga9+SE8BCgkf+2BwEKiNx6DyvFjCgkfV743/grxv8jHJ8gUK4XEQw7yzRYg==",
+      "sha512": "ghNc7I8E+yJwWIV4pyLWifP3cKIafQqOwtEQvVWg2dfgOIyjc4nCG5s8b1wOJiyeQC3GRNYQgeGSyla3HqhQ+A==",
       "type": "package",
       "path": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7673,7 +7701,7 @@
       ]
     },
     "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "ytoewC6wGorL7KoCAvRfsgoJPJbNq+64k2SqW6JcOAebWsFUvCCYgfzQMrnpvPiEl4OrblUlhF2ji+Q1+SVLrQ==",
+      "sha512": "j3aPp35eBziLgRnieR13YbOBSjIyaUpbrzM2bCY4t8aUxryQFwICqT3VqOatbH0urumZaT64sD8Bg35vrp42PQ==",
       "type": "package",
       "path": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7686,7 +7714,7 @@
       ]
     },
     "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "I8bKw2I8k58Wx7fMKQJn2R8lamboCAiHfHeV/pS65ScKWMMI0+wJkLYlEKvgW1D/XvSl/221clBoR2q9QNNM7A==",
+      "sha512": "OeRfg/Bsx/oyZBuWYmImqnJHk5wX5yV6rUZK/y1YYNoeYzo+03j1bNItrtqP5y8zvUrt9Rr7uDP+X6uRWnC3uw==",
       "type": "package",
       "path": "runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7699,7 +7727,7 @@
       ]
     },
     "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "VB5cn/7OzUfzdnC8tqAIMQciVLiq2epm2NrAm1E9OjNRyG4lVhfR61SMcLizejzQP8R8Uf/0l5qOIbUEi+RdEg==",
+      "sha512": "MvyCzohJaQnSuFPo0GneKGP9D9Szfu/J8DmnzrKeplybtqri2qsu14AzelyTzHwHQa+CiE8eGdJ8hFHHQWz2sQ==",
       "type": "package",
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7712,7 +7740,7 @@
       ]
     },
     "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
-      "sha512": "LbrynESTp3bm5O/+jGL8v0Qg5SJlTV08lpIpFesXjF6uGNMWqFnUQbYBJwZTeua6E/Y7FIM1C54Ey1btLWupdg==",
+      "sha512": "hJjGCDMYYx0bVTMh8pubbhsvrw1QFjz0XFyAzm3P/ZCv6mN9ze/pLaSONdH1hgRkTA72W9K3/EYaOw9lYVrIIQ==",
       "type": "package",
       "path": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
@@ -7727,7 +7755,7 @@
       ]
     },
     "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
-      "sha512": "38ugOfkYJqJoX9g6EYRlZB5U2ZJH51UP8ptxZgdpS07FgOEToV+lS11ouNK2PM12Pr6X/PpT5jK82G3DwH/SxQ==",
+      "sha512": "FnosUzObSBDfibjB1lj9Pk7kZnv6pP7c1sNk9UNv0hqYk3RALeJ9wsJYFmLPC66MasmHLNEBnj+CjMHEgDP/1w==",
       "type": "package",
       "path": "runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
@@ -7742,7 +7770,7 @@
       ]
     },
     "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
-      "sha512": "YhEdSQUsTx+C8m8Bw7ar5/VesXvCFMItyZF7G1AUY+OM0VPZUOeAVpJ4Wl6fydBGUYZxojTDR3I6Bj/+BPkJNA==",
+      "sha512": "cgO9mt0ISNgD5kdDgXMGHlzFBjHeClefVZcHl2TDvn2t5IctJ012ofRNgGSBh5Mt8Ad8rRMNez85zqBYk++NHA==",
       "type": "package",
       "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
@@ -8060,7 +8088,7 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
+      "sha512": "HoBDS8Ul0xsopQu4gI1rRIIcY4jPtC53LAx4arb+Ew12lnYV6K2Cx+202RLsc0SEoI5PT7l+sJLpRgPILFozAA==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
@@ -8098,7 +8126,7 @@
       ]
     },
     "System.Collections.Specialized/4.3.0": {
-      "sha512": "Epx8PoVZR0iuOnJJDzp7pWvdfMMOAvpUo95pC4ScH2mJuXkKA2Y4aR3cG9qt2klHgSons1WFh4kcGW7cSXvrxg==",
+      "sha512": "r+vVEbjkPFCbUEZI73TEW0eqoNTBZIQZWSFIgU12e+olf2k+kWF1bgUIiOEjFgFD2N4z811eQjFHszlavQNyOg==",
       "type": "package",
       "path": "system.collections.specialized/4.3.0",
       "files": [
@@ -9522,7 +9550,7 @@
       ]
     },
     "System.Net.Http/4.3.0": {
-      "sha512": "sYg+FtILtRQuYWSIAuNOELwVuVsxVyJGWQyOnlAzhV4xvhyFnON1bAzYYC+jjRW8JREM45R0R5Dgi8MTC5sEwA==",
+      "sha512": "oujT6VFncBZbpfLLoHmhoZ03eE5Q1B7emk8xNvA5d0+Lvr+ayXMNf4AGJvlFnmQ6xPP++Y3p3vs0nSMuEqqtoQ==",
       "type": "package",
       "path": "system.net.http/4.3.0",
       "files": [
@@ -9603,10 +9631,10 @@
         "system.net.http.nuspec"
       ]
     },
-    "System.Net.NameResolution/4.0.0": {
-      "sha512": "JdqRdM1Qym3YehqdKIi5LHrpypP4JMfxKQSNCJ2z4WawkG0il+N3XfNeJOxll2XrTnG7WgYYPoeiu/KOwg0DQw==",
+    "System.Net.NameResolution/4.3.0": {
+      "sha512": "AFYl08R7MrsrEjqpQWTZWBadqXyTzNDaWpMqyxhb0d6sGhV6xMDKueuBXlLL30gz+DIRY6MpdgnHWlCh5wmq9w==",
       "type": "package",
-      "path": "system.net.nameresolution/4.0.0",
+      "path": "system.net.nameresolution/4.3.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -9641,7 +9669,7 @@
         "runtimes/win/lib/net46/System.Net.NameResolution.dll",
         "runtimes/win/lib/netcore50/System.Net.NameResolution.dll",
         "runtimes/win/lib/netstandard1.3/System.Net.NameResolution.dll",
-        "system.net.nameresolution.4.0.0.nupkg.sha512",
+        "system.net.nameresolution.4.3.0.nupkg.sha512",
         "system.net.nameresolution.nuspec"
       ]
     },
@@ -10786,7 +10814,7 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.3.0": {
-      "sha512": "Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
+      "sha512": "FtS4OMhy1H/79cXuKoXYKeZ8SSWtJWEj0A5CtjVgdnL0cl+fEx3I8uRABR206IAsht7EavIvOXkuXytV9S6OWQ==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.3.0",
       "files": [
@@ -12341,7 +12369,7 @@
       ]
     },
     "System.Xml.XmlDocument/4.3.0": {
-      "sha512": "lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
+      "sha512": "iZkeP8dVzy+09yJJ2bV6sLhd43YkMY4PUD69OVbdH+l74CWg6fbSK9z2OtMog/l0a+C3jDO1R+wnZGe7R31SHg==",
       "type": "package",
       "path": "system.xml.xmldocument/4.3.0",
       "files": [
@@ -12601,11 +12629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\UdpWeb\\UdpWeb.csproj",
+      "projectUniqueName": "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\UdpWeb\\UdpWeb.csproj",
       "projectName": "UdpWeb",
-      "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\UdpWeb\\UdpWeb.csproj",
+      "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\UdpWeb\\UdpWeb.csproj",
       "packagesPath": "C:\\Users\\lcz\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\UdpWeb\\obj\\",
+      "outputPath": "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\UdpWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12624,14 +12652,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.BLL\\Udp.BLL.csproj": {
-              "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.BLL\\Udp.BLL.csproj"
+            "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\Udp.BLL\\Udp.BLL.csproj": {
+              "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\Udp.BLL\\Udp.BLL.csproj"
             },
-            "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Model\\Udp.Model.csproj": {
-              "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Model\\Udp.Model.csproj"
+            "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\Udp.Model\\Udp.Model.csproj": {
+              "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\Udp.Model\\Udp.Model.csproj"
             },
-            "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Security\\Udp.Security.csproj": {
-              "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer\\UdpApplication\\Udp.Security\\Udp.Security.csproj"
+            "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\Udp.Security\\Udp.Security.csproj": {
+              "projectPath": "C:\\Dev\\MyRepository\\.Net-UdpServer - personal\\UdpApplication\\Udp.Security\\Udp.Security.csproj"
             }
           }
         }
@@ -12657,6 +12685,7 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
@@ -12671,10 +12700,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

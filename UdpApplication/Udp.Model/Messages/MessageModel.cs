@@ -6,6 +6,10 @@ namespace Udp.Model.Messages
 {
     public class MessageModel
     {
+        //guid
+        public string id { get; set; }
+        //自动增长id
+        public int msg_id { get; set; }
         public string Msg { get; set; }
         /// <summary>
         /// 文本或者视频、语音等

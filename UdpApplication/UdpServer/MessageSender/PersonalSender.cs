@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Net;
 using System.Text;
 using System.Threading;
+using Udp.BLL;
 using Udp.Model.Messages;
 
 namespace UdpServer.MessageSender
@@ -39,11 +40,20 @@ namespace UdpServer.MessageSender
 
                         if (toUser != null)
                         {
-                            SendMessage(msg, toUser);
+                            if(!SendMessage(msg, toUser))
+                            {
+                                MessagesBLL.UpdateReadState(0,model.id);
+                            }
+                        }
+                        else
+                        {
+                            MessagesBLL.UpdateReadState(0, model.id);
+                            Console.WriteLine("to user is null");
                         }
                     }
-                    catch (Exception)
+                    catch (Exception ex)
                     {
+                        Console.WriteLine(ex.Message);
                     }
                 }
             });

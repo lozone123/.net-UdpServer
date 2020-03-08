@@ -12,3 +12,30 @@ C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.Mo
 C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.csproj.CopyComplete
 C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.dll
 C:\Users\lcz\source\repos\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.BLL.deps.json
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.BLL.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.BLL.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.DB.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.Model.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.DB.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.Model.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.csprojAssemblyReference.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.csproj.CoreCompileInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.AssemblyInfoInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.AssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.csproj.CopyComplete
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.BLL.deps.json
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.BLL.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.BLL.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.DB.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.Model.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.DB.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.BLL\bin\Debug\netstandard2.0\Udp.Model.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.csprojAssemblyReference.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.AssemblyInfoInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.AssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.csproj.CopyComplete
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.BLL\obj\Debug\netstandard2.0\Udp.BLL.pdb

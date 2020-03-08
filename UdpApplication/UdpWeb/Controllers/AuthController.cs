@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Web;
 using Udp.BLL;
@@ -17,7 +18,7 @@ namespace UdpWeb.Controllers
         public string Login(string username, string password)
         {
             var error = new ErrorMessage();
-            if (string.IsNullOrEmpty(username) 
+            if (string.IsNullOrEmpty(username)
                 || string.IsNullOrEmpty(password))
             {
                 error.State = 1;
@@ -42,7 +43,7 @@ namespace UdpWeb.Controllers
             return Newtonsoft.Json.JsonConvert.SerializeObject(error);
         }
 
-        public string Reg(UserInfoModel info,string code)
+        public string Reg(UserInfoModel info, string code)
         {
             var error = new ErrorMessage();
             if (string.IsNullOrEmpty(info.username) || string.IsNullOrEmpty(info.userpass))
@@ -96,6 +97,97 @@ namespace UdpWeb.Controllers
             }
             code = Udp.Security.DESEncrypt.DesEncrypt(code);
             return code;
+        }
+
+        public string QuickReg(UserInfoModel info)
+        {
+            var error = new ErrorMessage();
+            if (string.IsNullOrEmpty(info.username) || string.IsNullOrEmpty(info.userpass))
+            {
+                error.State = 1;
+                error.Msg = "name can't be empty";
+            }
+            else if (UserInfoBLL.IsExistUser<UserInfoModel>(info.username))
+            {
+                error.State = 1;
+                error.Msg = "name already exist";
+            }
+            else
+            {
+                info.userpass = Udp.Security.DESEncrypt.DesEncrypt(info.userpass);
+                var succ = UserInfoBLL.Add(info,1);
+                if (!succ)
+                {
+                    error.State = 3;
+                    error.Msg = "Enter name failed,please try again.";
+                }
+                else
+                {
+                    error.State = 0;
+                    DataTable dt=UserInfoBLL.GetUser(info.username);
+                    error.Msg = dt.Rows[0]["id"].ToString();
+                    error.Msg2 = dt.Rows[0]["nickname"].ToString();
+                }
+            }
+            return Newtonsoft.Json.JsonConvert.SerializeObject(error);
+        }
+
+        public string GetAdmin()
+        {
+            string username = "admin";
+            string nickname = "China Train Assistant";
+
+            var dt = UserInfoBLL.GetUser(username);
+            if(dt==null || dt.Rows.Count == 0)
+            {
+                var userModel = new UserInfoModel
+                {
+                    username=username,
+                    nickname=nickname,
+                    userpass="aaabbb123",
+                };
+                return QuickReg(userModel);
+            }
+            else
+            {
+                var error = new ErrorMessage();
+                error.State = 0;
+                error.Msg = dt.Rows[0]["id"].ToString();
+                error.Msg2 = dt.Rows[0]["nickname"].ToString();
+                return Newtonsoft.Json.JsonConvert.SerializeObject(error);
+            }
+
+        }
+
+        public string ConfirmMsg(string msgids)
+        {
+            if (!string.IsNullOrEmpty(msgids))
+            {
+               return MessagesBLL.UpdateReadStateBatchByMsgIds(1, msgids).ToString();
+            }
+            return "false";
+        }
+
+        public string GetNewMsg(string toUid)
+        {
+            if (!string.IsNullOrEmpty(toUid))
+            {
+                var dt = MessagesBLL.GetNewMsg(toUid);
+                if(dt!=null && dt.Rows.Count > 0)
+                {
+                    return Newtonsoft.Json.JsonConvert.SerializeObject(dt);
+                }
+            }
+            return "";
+        }
+
+        public string CheckNewMsg(string toUid)
+        {
+            if (!string.IsNullOrEmpty(toUid))
+            {
+               return MessagesBLL.CheckNewMsg(toUid);
+            }
+            return "0";
         }
     }
 }

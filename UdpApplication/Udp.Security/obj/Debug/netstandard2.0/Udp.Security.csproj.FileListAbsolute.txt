@@ -7,3 +7,18 @@ C:\Users\lcz\source\repos\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\U
 C:\Users\lcz\source\repos\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.dll
 C:\Users\lcz\source\repos\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.pdb
 C:\Users\lcz\source\repos\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.csprojAssemblyReference.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Security\bin\Debug\netstandard2.0\Udp.Security.deps.json
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Security\bin\Debug\netstandard2.0\Udp.Security.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Security\bin\Debug\netstandard2.0\Udp.Security.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.csproj.CoreCompileInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.AssemblyInfoInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.AssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Security\bin\Debug\netstandard2.0\Udp.Security.deps.json
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Security\bin\Debug\netstandard2.0\Udp.Security.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Security\bin\Debug\netstandard2.0\Udp.Security.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.AssemblyInfoInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.AssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\Udp.Security\obj\Debug\netstandard2.0\Udp.Security.pdb

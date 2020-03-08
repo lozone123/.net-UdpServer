@@ -11,5 +11,6 @@ namespace Udp.Model
         /// </summary>
        public int State { get; set; }
        public string Msg { get; set; }
+       public string Msg2 { get; set; }
     }
 }

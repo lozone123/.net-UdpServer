@@ -18,3 +18,52 @@ C:\Users\lcz\source\repos\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.B
 C:\Users\lcz\source\repos\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.DB.dll
 C:\Users\lcz\source\repos\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.BLL.pdb
 C:\Users\lcz\source\repos\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.DB.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\UdpServer.deps.json
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\UdpServer.runtimeconfig.json
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\UdpServer.runtimeconfig.dev.json
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\UdpServer.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\UdpServer.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.BLL.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.DB.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.Model.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.Security.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.BLL.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.Model.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.Security.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.DB.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\obj\Debug\netcoreapp2.1\UdpServer.csprojAssemblyReference.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\obj\Debug\netcoreapp2.1\UdpServer.csproj.CoreCompileInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\obj\Debug\netcoreapp2.1\UdpServer.AssemblyInfoInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\obj\Debug\netcoreapp2.1\UdpServer.AssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\obj\Debug\netcoreapp2.1\UdpServer.csproj.CopyComplete
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\obj\Debug\netcoreapp2.1\UdpServer.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\obj\Debug\netcoreapp2.1\UdpServer.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.Util.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.Util.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\UdpServer.deps.json
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\UdpServer.runtimeconfig.json
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\UdpServer.runtimeconfig.dev.json
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\UdpServer.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\UdpServer.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.BLL.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.DB.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.Model.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.Security.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.Util.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.BLL.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.Model.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.Security.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.Util.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\Udp.DB.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\obj\Debug\netcoreapp2.1\UdpServer.csprojAssemblyReference.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\obj\Debug\netcoreapp2.1\UdpServer.AssemblyInfoInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\obj\Debug\netcoreapp2.1\UdpServer.AssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\obj\Debug\netcoreapp2.1\UdpServer.csproj.CopyComplete
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\obj\Debug\netcoreapp2.1\UdpServer.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\obj\Debug\netcoreapp2.1\UdpServer.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\AsyncNet.Core.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\AsyncNet.Udp.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\AsyncNet.Udp.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\AsyncNet.Udp.xml
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\AsyncNet.Core.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpServer\bin\Debug\netcoreapp2.1\AsyncNet.Core.xml

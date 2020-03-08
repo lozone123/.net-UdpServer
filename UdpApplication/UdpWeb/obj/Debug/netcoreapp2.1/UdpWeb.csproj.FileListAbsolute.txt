@@ -38,3 +38,85 @@ C:\Users\lcz\source\repos\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.V
 C:\Users\lcz\source\repos\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.csproj.CopyComplete
 C:\Users\lcz\source\repos\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.dll
 C:\Users\lcz\source\repos\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.deps.json
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.runtimeconfig.json
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.runtimeconfig.dev.json
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.Views.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.Views.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.BLL.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.DB.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.Model.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.Security.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.BLL.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.Model.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.Security.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.DB.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.csprojAssemblyReference.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.csproj.CoreCompileInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.RazorAssemblyInfo.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.RazorAssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.AssemblyInfoInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.AssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.TagHelpers.input.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.TagHelpers.output.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.RazorCoreGenerate.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.RazorTargetAssemblyInfo.cache
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.RazorTargetAssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.Views.pdb
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.csproj.CopyComplete
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.dll
+C:\Dev\MyRepository\.Net-UdpServer\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.deps.json
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.runtimeconfig.json
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.runtimeconfig.dev.json
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.Views.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\UdpWeb.Views.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.BLL.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.DB.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.Model.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.Security.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.BLL.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.Model.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.Security.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Udp.DB.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.csprojAssemblyReference.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.RazorAssemblyInfo.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.RazorAssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.AssemblyInfoInputs.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.AssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.TagHelpers.input.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.TagHelpers.output.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.RazorCoreGenerate.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.RazorTargetAssemblyInfo.cache
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.RazorTargetAssemblyInfo.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.Views.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.csproj.CopyComplete
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.dll
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\UdpWeb.pdb
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Dev\MyRepository\.Net-UdpServer - personal\UdpApplication\UdpWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs

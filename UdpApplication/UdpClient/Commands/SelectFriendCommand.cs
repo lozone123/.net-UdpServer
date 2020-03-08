@@ -12,6 +12,10 @@ namespace UdpClient.Commands
             string[] data = cmd.Split(" ", StringSplitOptions.RemoveEmptyEntries);
             if (data.Length == 2)
             {
+                if (data[1] == "admin")
+                {
+                    data[1] = "China Train Assistant";
+                }
                 var friend = Friend.GetFriend(data[1]);
                 if (friend == null)
                 {
